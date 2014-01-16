@@ -6,6 +6,7 @@ Austin's lame attempt
 Truth Table 
 
 |A B C |D E| F|
+| ---- |:-:|--|
 |0 0 0 |0 0| 0|
 |0 0 1 |0 0| 0|
 |0 1 0 |0 0| 0|
