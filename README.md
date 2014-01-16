@@ -11,6 +11,9 @@ Austin's lame attempt
 Here is the image of the testbench waveform
 "https://github.com/Austinbolinger/ECE281_CE1/blob/master/ECE281_CE1.jpg"
 
+new link- for right output
+"https://github.com/Austinbolinger/ECE281_CE1/blob/master/ECE281_CE1_2.JPG"
+
 #Analysis
 The Truth table matched the image from the testbench.(*not really see below)
 
