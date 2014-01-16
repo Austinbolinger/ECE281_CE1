@@ -3,7 +3,7 @@ ECE281_CE1
 
 Austin's lame attempt 
 
-Truth Table 
+#Truth Table 
 
 A B C |D E| F
  ---- |:-:|--
