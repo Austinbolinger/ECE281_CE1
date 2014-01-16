@@ -6,7 +6,9 @@ Austin's lame attempt
 #Truth Table 
 "https://github.com/Austinbolinger/ECE281_CE1/blob/master/TruthTable.JPG" 
 The right version is in my lab not book
-
+|A|B|C|
+|-|-|-|
+|0|0|1|
 
 #Image
 Here is the image of the testbench waveform
