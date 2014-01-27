@@ -31,7 +31,10 @@ use IEEE.STD_LOGIC_1164.ALL;
 
 entity CE1_shell is
     Port ( A : in  STD_LOGIC;
+<<<<<<< HEAD
 	 --hint use STD_LOGIC_VECTOR for Lab1
+=======
+>>>>>>> d2ee27a05a7c24af8dc28783df46e1f0f0542fc2
            B : in  STD_LOGIC;
            C : in  STD_LOGIC;
            F : out  STD_LOGIC);
@@ -39,8 +42,11 @@ end CE1_shell;
 
 architecture Behavioral of CE1_shell is
 
+<<<<<<< HEAD
 --components talked about in lab3?
 
+=======
+>>>>>>> d2ee27a05a7c24af8dc28783df46e1f0f0542fc2
 signal B_NOT, D, E : STD_LOGIC;
 
 begin

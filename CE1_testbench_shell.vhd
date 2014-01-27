@@ -87,6 +87,7 @@ BEGIN
 		
 		-- Complete_ the rest of the truth table below:
 
+<<<<<<< HEAD
 		-- third line of truth table
 		A <= '0';
 		B <= '1';
@@ -122,6 +123,9 @@ BEGIN
 		wait for 100 ns;	
       wait;
 		
+=======
+      wait;
+>>>>>>> d2ee27a05a7c24af8dc28783df46e1f0f0542fc2
    end process;
 
 END;
